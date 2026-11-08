@@ -55,7 +55,7 @@ https://realpython.com/documenting-python-code/#public-and-open-source-projects
 import os
 import re
 import sys
-import pkg_resources
+#import pkg_resources
 # numpy.distutils will figure out if setuptools is available when imported
 # this allows us to combine setuptools and f2py extensions
 import setuptools
